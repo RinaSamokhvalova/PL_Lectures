@@ -398,3 +398,10 @@ FodyWeavers.xsd
 *.sln.iml
 
 .DS_Store
+
+Exampl002_HelloUser/
+Exampl007_Magic/
+Exampl008_IntroMethod/
+Exampl009_introArrey/
+Exampl010_MethodArray/
+Exampl011_ArrayLibrary/
